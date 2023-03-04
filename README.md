@@ -119,7 +119,7 @@ a.p:hover span {
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
  
     
-<h2><span class="snow">2023/02/18~26, Thailand！&emsp;バンコク、パタヤ、チェンライエリア情報</span></h2>
+<h2><span class="snow">2023/02/18~26, Thailand！&emsp;バンコク、パッタヤ、チェンライエリア情報</span></h2>
 
 <h2><span class="blue">宿の裏の川にはワニのサイズのトカゲが居るとのこと。</span></h2>
 
@@ -135,6 +135,7 @@ a.p:hover span {
 	<h2><span class="blue">高速道路での荷台乗車も合法</span></h2>
 <a href="Thailand_006.jpg" data-lightbox="abc"><img src="Thailand_006.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_007.jpg" data-lightbox="abc"><img src="Thailand_007.jpg" alt="サンプル画像" width="900" /></a>
+<h2><span class="blue">高速を下ってたどり着いたのは、プーケットに並ぶ観光地、パッタヤ</span></h2>
 <a href="Thailand_072.jpg" data-lightbox="abc"><img src="Thailand_072.jpg" alt="サンプル画像" width="900" /></a>
 	<h2><span class="blue">観光地はロシア人が目立ちます<br>
 ロビーにはヘッドギヤで通話するおじさん</span></h2>
