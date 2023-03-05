@@ -196,7 +196,7 @@ a.p:hover span {
 <a href="Thailand_031.jpg" data-lightbox="abc"><img src="Thailand_031.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_032.jpg" data-lightbox="abc"><img src="Thailand_032.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_033.jpg" data-lightbox="abc"><img src="Thailand_033.jpg" alt="サンプル画像" width="900" /></a>
-<h2><span class="blue">若い修行僧が瞑想していましたが、完全に飽きてスマホで遊んでます</span></h2>
+<h2><span class="blue">若い修行僧が瞑想していましたが、完全に飽きてスマホ覗きこんでます</span></h2>
 <a href="Thailand_034.jpg" data-lightbox="abc"><img src="Thailand_034.jpg" alt="サンプル画像" width="900" /></a>
 	<h2><span class="blue">おみくじは生まれた曜日で引く決まりで木曜は午前午後も切り分け</span></h2>
 <a href="Thailand_035.jpg" data-lightbox="abc"><img src="Thailand_035.jpg" alt="サンプル画像" width="900" /></a>
