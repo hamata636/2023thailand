@@ -184,6 +184,7 @@ a.p:hover span {
 <a href="Thailand_029.jpg" data-lightbox="abc"><img src="Thailand_029.jpg" alt="サンプル画像" width="900" /></a>
 <h2><span class="blue">御本座音は、奥のレンガの筒の中</span></h2>
 <a href="Thailand_073.jpg" data-lightbox="abc"><img src="Thailand_073.jpg" alt="サンプル画像" width="900" /></a>
+	<h2><span class="blue">お賽銭箱（壺）</span></h2>
 <a href="Thailand_030.jpg" data-lightbox="abc"><img src="Thailand_030.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_031.jpg" data-lightbox="abc"><img src="Thailand_031.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_032.jpg" data-lightbox="abc"><img src="Thailand_032.jpg" alt="サンプル画像" width="900" /></a>
