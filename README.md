@@ -168,17 +168,25 @@ a.p:hover span {
 <a href="Thailand_021.jpg" data-lightbox="abc"><img src="Thailand_021.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_022.jpg" data-lightbox="abc"><img src="Thailand_022.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_023.jpg" data-lightbox="abc"><img src="Thailand_023.jpg" alt="サンプル画像" width="900" /></a>
+<h2><span class="blue">ミャンマーとの国境ゲートの門</span></h2>
 <a href="Thailand_024.jpg" data-lightbox="abc"><img src="Thailand_024.jpg" alt="サンプル画像" width="900" /></a>
+<h2><span class="blue">門の向こう側は、ミャンマー</span></h2>
 <a href="Thailand_025.jpg" data-lightbox="abc"><img src="Thailand_025.jpg" alt="サンプル画像" width="900" /></a>
+<h2><span class="blue">トイレは一回５バーツ・・・約20円</span></h2>
 <a href="Thailand_026.jpg" data-lightbox="abc"><img src="Thailand_026.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_027.jpg" data-lightbox="abc"><img src="Thailand_027.jpg" alt="サンプル画像" width="900" /></a>
+<h2><span class="blue">南東に６０kmほど移動すると、ラオスとの国境にある大きな寺院</span></h2>
 <a href="Thailand_028.jpg" data-lightbox="abc"><img src="Thailand_028.jpg" alt="サンプル画像" width="900" /></a>
+<h2><span class="blue">タイの犬は、全て放し飼い</span></h2>
+<a href="Thailand_029.jpg" data-lightbox="abc"><img src="Thailand_029.jpg" alt="サンプル画像" width="900" /></a>
+<h2><span class="blue">御本座音は、奥のレンガの筒の中</span></h2>
 <a href="Thailand_029.jpg" data-lightbox="abc"><img src="Thailand_029.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_073.jpg" data-lightbox="abc"><img src="Thailand_073.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_030.jpg" data-lightbox="abc"><img src="Thailand_030.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_031.jpg" data-lightbox="abc"><img src="Thailand_031.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_032.jpg" data-lightbox="abc"><img src="Thailand_032.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_033.jpg" data-lightbox="abc"><img src="Thailand_033.jpg" alt="サンプル画像" width="900" /></a>
+<h2><span class="blue">若い修行僧が瞑想していましたが、完全に飽きてスマホで遊んでます</span></h2>
 <a href="Thailand_034.jpg" data-lightbox="abc"><img src="Thailand_034.jpg" alt="サンプル画像" width="900" /></a>
 	<h2><span class="blue">おみくじは生まれた曜日で引く決まりで木曜は午前午後も切り分け</span></h2>
 <a href="Thailand_035.jpg" data-lightbox="abc"><img src="Thailand_035.jpg" alt="サンプル画像" width="900" /></a>
