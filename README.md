@@ -143,9 +143,10 @@ a.p:hover span {
 <a href="Thailand_069.jpg" data-lightbox="abc"><img src="Thailand_069.jpg" alt="サンプル画像" width="900" /></a>
 	<h2><span class="blue">中国人も居ましたが、ごく少数</span></h2>
 <a href="Thailand_070.jpg" data-lightbox="abc"><img src="Thailand_070.jpg" alt="サンプル画像" width="900" /></a>
-<h2><span class="blue">屋外型レストラン、ほぼ外国人しかいません。<br>
+<h2><span class="blue">パッタヤの屋外型レストラン、ほぼ外国人しかいません。<br>
 日本人は若者が一組だけ確認できました</span></h2>
 <a href="Thailand_074.JPG" data-lightbox="abc"><img src="Thailand_074.JPG" alt="サンプル画像" width="900" /></a>
+	<h2><span class="blue">ディナータイムはほぼ満席になりました</span></h2>
 <a href="Thailand_075.JPG" data-lightbox="abc"><img src="Thailand_075.JPG" alt="サンプル画像" width="900" /></a>
 	<h2><span class="blue">BGMは生演奏でした</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GJDF14UrWgk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
