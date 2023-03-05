@@ -202,6 +202,8 @@ a.p:hover span {
 <a href="Thailand_035.jpg" data-lightbox="abc"><img src="Thailand_035.jpg" alt="サンプル画像" width="900" /></a>
 	<h2><span class="blue">お寺の説明はQRコードで読み取り、DX化ですね</span></h2>
 <a href="Thailand_036.jpg" data-lightbox="abc"><img src="Thailand_036.jpg" alt="サンプル画像" width="900" /></a>
+	<h2><span class="blue">真ん中のQRコードのリンク先</span></h2>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mg_G4sBS_Hk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <a href="Thailand_037.jpg" data-lightbox="abc"><img src="Thailand_037.jpg" alt="サンプル画像" width="900" /></a>
 	<h2><span class="blue">車で１時間ほど南下してチェンライに戻ります</span></h2>
 <a href="Thailand_038.jpg" data-lightbox="abc"><img src="Thailand_038.jpg" alt="サンプル画像" width="900" /></a>
