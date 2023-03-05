@@ -160,8 +160,9 @@ a.p:hover span {
 <h2><span class="blue">お花の演出などは、さすが南国というレベル</span></h2>
 <a href="Thailand_015.jpg" data-lightbox="abc"><img src="Thailand_015.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_016.jpg" data-lightbox="abc"><img src="Thailand_016.jpg" alt="サンプル画像" width="900" /></a>
-<h2><span class="blue">満面の笑みでピースサインする店員さん、喋るまで男とはわかりませんでした</span></h2>
+<h2><span class="blue">満面の笑みでピースサインする店員さん、<br>喋るまで男とはわかりませんでした</span></h2>
 <a href="Thailand_017.jpg" data-lightbox="abc"><img src="Thailand_017.jpg" alt="サンプル画像" width="900" /></a>
+<h2><span class="blue">車で１時間ほど北上するとミャンマーとの国境エリアの都市メーサーイ</span></h2>
 <a href="Thailand_019.jpg" data-lightbox="abc"><img src="Thailand_019.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_020.jpg" data-lightbox="abc"><img src="Thailand_020.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_021.jpg" data-lightbox="abc"><img src="Thailand_021.jpg" alt="サンプル画像" width="900" /></a>
