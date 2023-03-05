@@ -114,7 +114,7 @@ a.p:hover span {
     
 <!--ここまでは定型文としてそのままコピペして再利用します-->
     
-<h1><span class="yellow"><marquee behavior="left">!!! 2023年タイ旅行 !!!</marquee></span></h1>
+<h1><span class="yellow"><marquee behavior="left">!!! 2023年2月18日～26日、タイ旅行 !!!</marquee></span></h1>
     
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
  
