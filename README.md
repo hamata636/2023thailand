@@ -181,7 +181,6 @@ a.p:hover span {
 <h2><span class="blue">タイの犬は、全て放し飼い</span></h2>
 <a href="Thailand_029.jpg" data-lightbox="abc"><img src="Thailand_029.jpg" alt="サンプル画像" width="900" /></a>
 <h2><span class="blue">御本座音は、奥のレンガの筒の中</span></h2>
-<a href="Thailand_029.jpg" data-lightbox="abc"><img src="Thailand_029.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_073.jpg" data-lightbox="abc"><img src="Thailand_073.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_030.jpg" data-lightbox="abc"><img src="Thailand_030.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_031.jpg" data-lightbox="abc"><img src="Thailand_031.jpg" alt="サンプル画像" width="900" /></a>
@@ -191,19 +190,26 @@ a.p:hover span {
 <a href="Thailand_034.jpg" data-lightbox="abc"><img src="Thailand_034.jpg" alt="サンプル画像" width="900" /></a>
 	<h2><span class="blue">おみくじは生まれた曜日で引く決まりで木曜は午前午後も切り分け</span></h2>
 <a href="Thailand_035.jpg" data-lightbox="abc"><img src="Thailand_035.jpg" alt="サンプル画像" width="900" /></a>
+	<h2><span class="blue">お寺の説明はQRコードで読み取り、DX化ですね</span></h2>
 <a href="Thailand_036.jpg" data-lightbox="abc"><img src="Thailand_036.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_037.jpg" data-lightbox="abc"><img src="Thailand_037.jpg" alt="サンプル画像" width="900" /></a>
+	<h2><span class="blue">車で１時間ほど南下してチェンライに戻ります</span></h2>
 <a href="Thailand_038.jpg" data-lightbox="abc"><img src="Thailand_038.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_039.jpg" data-lightbox="abc"><img src="Thailand_039.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_040.jpg" data-lightbox="abc"><img src="Thailand_040.jpg" alt="サンプル画像" width="900" /></a>
+	<h2><span class="blue">ショッピングセンターの入り口には宝くじ売り場</span></h2>
 <a href="Thailand_041.jpg" data-lightbox="abc"><img src="Thailand_041.jpg" alt="サンプル画像" width="900" /></a>
+	<h2><span class="blue">規模は大きく、宇都宮のベルモールの３倍以上のサイズ</span></h2>
 <a href="Thailand_042.jpg" data-lightbox="abc"><img src="Thailand_042.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_043.jpg" data-lightbox="abc"><img src="Thailand_043.jpg" alt="サンプル画像" width="900" /></a>
+	<h2><span class="blue">フードコートでタイラーメンを頂きました</span></h2>
 <a href="Thailand_044.jpg" data-lightbox="abc"><img src="Thailand_044.jpg" alt="サンプル画像" width="900" /></a>
+	<h2><span class="blue">夜間の照明は独特の雰囲気でした</span></h2>
 <a href="Thailand_045.jpg" data-lightbox="abc"><img src="Thailand_045.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_046.jpg" data-lightbox="abc"><img src="Thailand_046.jpg" alt="サンプル画像" width="900" /></a>
+	<h2><span class="blue">制服の背中が落書きだらけの女子高生</span></h2>
 <a href="Thailand_047.jpg" data-lightbox="abc"><img src="Thailand_047.jpg" alt="サンプル画像" width="900" /></a>
-	<h2><span class="blue">絵画の展示即売会開催中<br>（撮影がフリーなのはタイの緩いところ）</span></h2>
+	<h2><span class="blue">ショッピングモールの一角では絵画の展示即売会開催中<br>（撮影がフリーなのはタイの緩いところ）</span></h2>
 <a href="Thailand_048.jpg" data-lightbox="abc"><img src="Thailand_048.jpg" alt="サンプル画像" width="450" /></a>
 <a href="Thailand_049.jpg" data-lightbox="abc"><img src="Thailand_049.jpg" alt="サンプル画像" width="450" /></a>
 <a href="Thailand_050.jpg" data-lightbox="abc"><img src="Thailand_050.jpg" alt="サンプル画像" width="450" /></a>
@@ -218,9 +224,12 @@ a.p:hover span {
 <a href="Thailand_058.jpg" data-lightbox="abc"><img src="Thailand_058.jpg" alt="サンプル画像" width="900" /></a>
 	<h2><span class="blue">北部方面にしかない、竹の筒の中に詰めたもち米のごはん<br>・・・・バンコクにはありません・・・・</span></h2>
 <a href="Thailand_059.jpg" data-lightbox="abc"><img src="Thailand_059.jpg" alt="サンプル画像" width="900" /></a>
+	<h2><span class="blue">バンコクの飛行場、赤鬼青鬼はマスク着用中</span></h2>
 <a href="Thailand_060.jpg" data-lightbox="abc"><img src="Thailand_060.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_061.jpg" data-lightbox="abc"><img src="Thailand_061.jpg" alt="サンプル画像" width="900" /></a>
+	<h2><span class="blue">鬼と人間の大蛇を使った綱引きのオブジェ</span></h2>
 <a href="Thailand_062.jpg" data-lightbox="abc"><img src="Thailand_062.jpg" alt="サンプル画像" width="900" /></a>
+	<h2><span class="blue">王室直営のお土産やさん</span></h2>
 <a href="Thailand_063.jpg" data-lightbox="abc"><img src="Thailand_063.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_064.jpg" data-lightbox="abc"><img src="Thailand_064.jpg" alt="サンプル画像" width="900" /></a>
 
