@@ -143,7 +143,8 @@ a.p:hover span {
 <a href="Thailand_069.jpg" data-lightbox="abc"><img src="Thailand_069.jpg" alt="サンプル画像" width="900" /></a>
 	<h2><span class="blue">中国人も居ましたが、ごく少数</span></h2>
 <a href="Thailand_070.jpg" data-lightbox="abc"><img src="Thailand_070.jpg" alt="サンプル画像" width="900" /></a>
-<h2><span class="blue">パッタヤを堪能したあとはパンコクから飛行機でチェンライに移動</span></h2>
+<h2><span class="blue">パッタヤを堪能したあとはパンコクに戻り、飛行機で北部の都市、チェンライに移動<br>
+チェンライはバンコクに次ぐタイ2番目の都市、チェンマイの東隣の都市</span></h2>
 <a href="Thailand_018.jpg" data-lightbox="abc"><img src="Thailand_018.jpg" alt="サンプル画像" width="900" /></a>
 	<h2><span class="blue">一家4人で１台のバイクに普通に乗ってます</span></h2>
 <a href="Thailand_008.jpg" data-lightbox="abc"><img src="Thailand_008.jpg" alt="サンプル画像" width="900" /></a>
