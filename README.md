@@ -150,8 +150,9 @@ a.p:hover span {
 	<h2><span class="blue">地方の朝市で朝食を調達、流石に現地の人しか居ません</span></h2>
 <a href="Thailand_009.jpg" data-lightbox="abc"><img src="Thailand_009.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_010.jpg" data-lightbox="abc"><img src="Thailand_010.jpg" alt="サンプル画像" width="900" /></a>
-<h2><span class="blue">妻実家でバナナ売りに挑戦するも一本も売れず</span></h2>
+
 <a href="Thailand_011.jpg" data-lightbox="abc"><img src="Thailand_011.jpg" alt="サンプル画像" width="900" /></a>
+<h2><span class="blue">妻実家でバナナ売りに挑戦！</span></h2>
 <a href="Thailand_012.jpg" data-lightbox="abc"><img src="Thailand_012.jpg" alt="サンプル画像" width="900" /></a>
 <h2><span class="blue">洒落た喫茶店があったので一休み</span></h2>
 <a href="Thailand_013.jpg" data-lightbox="abc"><img src="Thailand_013.jpg" alt="サンプル画像" width="900" /></a>
