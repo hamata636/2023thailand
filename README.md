@@ -160,7 +160,7 @@ a.p:hover span {
 <a href="Thailand_010.jpg" data-lightbox="abc"><img src="Thailand_010.jpg" alt="サンプル画像" width="900" /></a>
 
 <a href="Thailand_011.jpg" data-lightbox="abc"><img src="Thailand_011.jpg" alt="サンプル画像" width="900" /></a>
-<h2><span class="blue">妻実家でバナナ売りに挑戦！</span></h2>
+<h2><span class="blue">店の内側からバナナ持ってポーズ！</span></h2>
 <a href="Thailand_012.jpg" data-lightbox="abc"><img src="Thailand_012.jpg" alt="サンプル画像" width="900" /></a>
 <h2><span class="blue">洒落た喫茶店があったので一休み</span></h2>
 <a href="Thailand_013.jpg" data-lightbox="abc"><img src="Thailand_013.jpg" alt="サンプル画像" width="900" /></a>
