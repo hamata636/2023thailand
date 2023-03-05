@@ -165,7 +165,7 @@ a.p:hover span {
 <a href="Thailand_017.jpg" data-lightbox="abc"><img src="Thailand_017.jpg" alt="サンプル画像" width="900" /></a>
 <h2><span class="blue">車で１時間ほど北上するとミャンマーとの国境エリアの都市メーサーイ</span></h2>
 <a href="Thailand_019.jpg" data-lightbox="abc"><img src="Thailand_019.jpg" alt="サンプル画像" width="900" /></a>
-	<h2><span class="blue">あまりにも巨大なので中の移動はバイク</span></h2>
+	<h2><span class="blue">アーケード街はあまりにも巨大なので中の移動はバイク</span></h2>
 <a href="Thailand_020.jpg" data-lightbox="abc"><img src="Thailand_020.jpg" alt="サンプル画像" width="900" /></a>
 	<h2><span class="blue">物流の拠点らしく、さまざまな商品が集まっています</span></h2>
 <a href="Thailand_021.jpg" data-lightbox="abc"><img src="Thailand_021.jpg" alt="サンプル画像" width="900" /></a>
