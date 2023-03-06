@@ -138,7 +138,7 @@ a.p:hover span {
 <h2><span class="blue">高速を下ってたどり着いたのは、プーケットに並ぶ観光地、パッタヤ</span></h2>
 <a href="Thailand_072.jpg" data-lightbox="abc"><img src="Thailand_072.jpg" alt="サンプル画像" width="900" /></a>
 	<h2><span class="blue">観光地はロシア人が目立ちます<br>
-ロビーにはヘッドギヤで通話するおじさん</span></h2>
+ロビーにはヘッドギヤ付けて会話するおじさん</span></h2>
 <a href="Thailand_071.jpg" data-lightbox="abc"><img src="Thailand_071.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_069.jpg" data-lightbox="abc"><img src="Thailand_069.jpg" alt="サンプル画像" width="900" /></a>
 	<h2><span class="blue">中国人も居ましたが、ごく少数</span></h2>
