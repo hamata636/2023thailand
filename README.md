@@ -258,6 +258,18 @@ a.p:hover span {
 <a href="Thailand_067.jpg" data-lightbox="abc"><img src="Thailand_067.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_068.jpg" data-lightbox="abc"><img src="Thailand_068.jpg" alt="サンプル画像" width="900" /></a>
 
+<br><br><br><br>
+
+<h2><span class="blue">今回の移動ではAPRS信号で位置情報を取得しました</span></h2>
+
+<a href="Thailand_074.jpg" data-lightbox="abc"><img src="Thailand_074.jpg" alt="サンプル画像" width="900" /></a>
+<a href="Thailand_075.jpg" data-lightbox="abc"><img src="Thailand_075.jpg" alt="サンプル画像" width="900" /></a>
+<a href="Thailand_076.jpg" data-lightbox="abc"><img src="Thailand_076.jpg" alt="サンプル画像" width="900" /></a>
+<a href="Thailand_077.jpg" data-lightbox="abc"><img src="Thailand_077.jpg" alt="サンプル画像" width="900" /></a>
+
+<br><br>
+<SPAN style="margin-left:20px "><a href="https://yamap.com/activities/3245546" target="_blank" class="p"><p>5分でわかるAPRS</p></a></SPAN>
+
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> 
 
