@@ -121,7 +121,7 @@ a.p:hover span {
     
 <h2><span class="snow">2023/02/18~26, Thailand！&emsp;バンコク、パッタヤ、チェンライエリア情報</span></h2>
 
-<h2><span class="blue">初日宿泊地、バンコク市内ですが、<br>宿の裏の川にはワニのサイズのトカゲが居るとのこと。</span></h2>
+<h2><span class="blue">初日宿泊地、バンコク市内ですが、<br>宿の裏の川にはワニのサイズのトカゲが居るので注意！とのこと。</span></h2>
 
 <a href="Thailand_000.jpg" data-lightbox="abc"><img src="Thailand_000.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_001.jpg" data-lightbox="abc"><img src="Thailand_001.jpg" alt="サンプル画像" width="900" /></a>
