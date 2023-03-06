@@ -186,6 +186,10 @@ a.p:hover span {
 <h2><span class="blue">トイレは一回５バーツ・・・約20円</span></h2>
 <a href="Thailand_026.jpg" data-lightbox="abc"><img src="Thailand_026.jpg" alt="サンプル画像" width="900" /></a>
 <a href="Thailand_027.jpg" data-lightbox="abc"><img src="Thailand_027.jpg" alt="サンプル画像" width="900" /></a>
+<h2><span class="blue">別のトイレですが、タイのトイレの標準的な装備<br>
+左に見えるシャワーが主導ウォシュレット、<br>おしりを吹いたティッシュはトイレに流さずゴミ箱に捨てます</span></h2>
+<a href="Thailand_078.jpg" data-lightbox="abc"><img src="Thailand_078.jpg" alt="サンプル画像" width="900" /></a>
+
 <h2><span class="blue">南東に６０kmほど移動すると、ラオスとの国境にある大きな寺院</span></h2>
 <a href="Thailand_028.jpg" data-lightbox="abc"><img src="Thailand_028.jpg" alt="サンプル画像" width="900" /></a>
 <h2><span class="blue">タイの犬は、全て放し飼い</span></h2>
