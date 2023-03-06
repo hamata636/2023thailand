@@ -122,9 +122,8 @@ a.p:hover span {
 <h2><span class="snow">2023/02/18~26, Thailand！&emsp;バンコク、パッタヤ、チェンライエリア情報</span></h2>
 
 <h2><span class="blue">初日宿泊地、バンコク市内ですが、<br>宿の裏の川にはワニのサイズのトカゲが居るので注意！とのこと。</span></h2>
-
 <a href="Thailand_000.jpg" data-lightbox="abc"><img src="Thailand_000.jpg" alt="サンプル画像" width="900" /></a>
-<h2><span class="blue">一戸建ての庭や、町のいたるところに仏壇が有ります。</span></h2>
+<h2><span class="blue">一戸建てお家の庭や、町のいたるところに仏壇が有ります。</span></h2>
 <a href="Thailand_001.jpg" data-lightbox="abc"><img src="Thailand_001.jpg" alt="サンプル画像" width="900" /></a>
 <h2><span class="blue">タイ人が運転する車には、タクシーも含めて仏像さまが鎮座</span></h2>
 <a href="Thailand_002.jpg" data-lightbox="abc"><img src="Thailand_002.jpg" alt="サンプル画像" width="900" /></a>
