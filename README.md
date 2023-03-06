@@ -210,6 +210,12 @@ a.p:hover span {
 <a href="Thailand_036.jpg" data-lightbox="abc"><img src="Thailand_036.jpg" alt="サンプル画像" width="900" /></a>
 	<h2><span class="blue">真ん中のQRコードのリンク先</span></h2>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mg_G4sBS_Hk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<h2><span class="blue">尼寺エリアの尼さん達が記念撮影に応じてくれました</span></h2>
+<a href="Thailand_079.jpg" data-lightbox="abc"><img src="Thailand_079.jpg" alt="サンプル画像" width="900" /></a>
+<a href="Thailand_080.jpg" data-lightbox="abc"><img src="Thailand_080.jpg" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="blue">カーボンのロードバイク5台も積んだリッチな車が居ました</span></h2>
 <a href="Thailand_037.jpg" data-lightbox="abc"><img src="Thailand_037.jpg" alt="サンプル画像" width="900" /></a>
 	<h2><span class="blue">車で１時間ほど南下してチェンライに戻ります</span></h2>
 <a href="Thailand_038.jpg" data-lightbox="abc"><img src="Thailand_038.jpg" alt="サンプル画像" width="900" /></a>
