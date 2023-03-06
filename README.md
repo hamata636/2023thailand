@@ -271,7 +271,7 @@ a.p:hover span {
 <a href="Thailand_077.jpg" data-lightbox="abc"><img src="Thailand_077.jpg" alt="サンプル画像" width="900" /></a>
 
 <br><br>
-<SPAN style="margin-left:20px "><a href="https://yamap.com/activities/3245546" target="_blank" class="p"><p>5分でわかるAPRS</p></a></SPAN>
+<SPAN style="margin-left:20px "><a href="https://yamap.com/activities/3245546" target="_blank" class="p"><p><span class="red">5分でわかるAPRS</span></p></a></SPAN>
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br> 
