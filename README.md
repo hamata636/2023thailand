@@ -273,7 +273,6 @@ a.p:hover span {
 <a href="Thailand_068.jpg" data-lightbox="abc"><img src="Thailand_068.jpg" alt="サンプル画像" width="900" /></a>
 
 <br><br><br><br>
-
 <h2><span class="red">位置情報の取得方法</span></h2>
 <h2><span class="blue">今回の移動ではAPRS信号で位置情報を取得しました<br>
 APRSとはアマチュア無線機でGPS情報を共有する仕組みですが、<br>
