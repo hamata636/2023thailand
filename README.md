@@ -221,7 +221,9 @@ a.p:hover span {
 <a href="Thailand_037.jpg" data-lightbox="abc"><img src="Thailand_037.jpg" alt="サンプル画像" width="900" /></a>
 	<h2><span class="blue">車で１時間ほど南下してチェンライに戻ります</span></h2>
 <a href="Thailand_038.jpg" data-lightbox="abc"><img src="Thailand_038.jpg" alt="サンプル画像" width="900" /></a>
+	<h2><span class="blue">タイの子供たちは荷台が大好き？</span></h2>
 <a href="Thailand_039.jpg" data-lightbox="abc"><img src="Thailand_039.jpg" alt="サンプル画像" width="900" /></a>
+	<h2><span class="blue">巨大ショッピングセンターで遊びます</span></h2>
 <a href="Thailand_040.jpg" data-lightbox="abc"><img src="Thailand_040.jpg" alt="サンプル画像" width="900" /></a>
 	<h2><span class="blue">ショッピングセンターの入り口には宝くじ売り場</span></h2>
 <a href="Thailand_041.jpg" data-lightbox="abc"><img src="Thailand_041.jpg" alt="サンプル画像" width="900" /></a>
