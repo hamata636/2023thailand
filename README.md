@@ -155,7 +155,7 @@ a.p:hover span {
 <iframe width="560" height="315" src="https://www.youtube.com/embed/GJDF14UrWgk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <h2><span class="blue">パッタヤを堪能したあとはパンコクに戻り、飛行機で北部の都市、チェンライに移動<br>
 チェンライはバンコクに次ぐタイ2番目の都市、チェンマイの東隣の都市</span></h2>
-<a href="Thailand_018.jpg" data-lightbox="abc"><img src="Thailand_018.jpg" alt="サンプル画像" width="900" /></a>
+<a href="Thailand_082.jpg" data-lightbox="abc"><img src="Thailand_082.jpg" alt="サンプル画像" width="900" /></a>
 	<h2><span class="blue">一家4人で１台のバイクに普通に乗ってます</span></h2>
 <a href="Thailand_008.jpg" data-lightbox="abc"><img src="Thailand_008.jpg" alt="サンプル画像" width="900" /></a>
 	<h2><span class="blue">地方の朝市で朝食を調達、流石に現地の人しか居ません</span></h2>
